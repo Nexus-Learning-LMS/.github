@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/150x150/011f9f/FFFFFF?text=NL" alt="Nexus Learning Logo" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Nexus-Learning-LMS/.github/main/nexus-logo.png" alt="Nexus Learning Logo" width="120" height="120" style="border-radius: 50%; margin-bottom: 0px;" />
   <h1>
     Nexus Learning
   </h1>
